@@ -15,6 +15,7 @@
       -ms-flex-align: center;
           align-items: center;
   height: 152px;
+  grid-template: subgrid;
 }
 
 .header__logo {
